@@ -1,0 +1,2 @@
+
+The AirForce Division was the section of the [[Second Guard]] originally used to provide air support in [[Ground Division]] operations. It was discontinued in order to put all effort into the creation of the more advanced [[Aerospace Division]] designed to have air superiority both in and out of atmosphere. This took 2 years to fully transition due to the necessary creation of the new [[SA Fighter Class]] craft which was a challenging task for the [[Engineering Department]]. This left [[The Guard]] without anyform of air defense for the entirety of these 2 years.
