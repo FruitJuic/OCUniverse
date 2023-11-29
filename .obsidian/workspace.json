@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "2e1dc6bd48429540",
+    "type": "split",
+    "children": [
+      {
+        "id": "10530ad189150811",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bee7cdbdd9767ec",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "14bbe9596ec306b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engineering Division.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bcc68e80502a687b",
+    "type": "split",
+    "children": [
+      {
+        "id": "97b5aaf45e7c197b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c18e21d021a47431",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c70f963c554821c1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b7728823e9e226a2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a72b1f3a219f2ac2",
+    "type": "split",
+    "children": [
+      {
+        "id": "aea02830ed9cb436",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d56c67e088fd6a1d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "64fcb6d0c09af430",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b0ebff6468040ad4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "60f748d5f892b577",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8bee7cdbdd9767ec",
+  "lastOpenFiles": [
+    "Aries Costiallis.md",
+    "SA-32 Condor.md",
+    "Second Guard.md",
+    "Engineering Division.md",
+    "Siege of Gluk.md",
+    "The Guard.md",
+    "Ground Division.md",
+    "Naval Division.md",
+    "AirForce Division.md",
+    "K385.md",
+    "K835.md",
+    "Janitorial Division.md",
+    "Aurora Astra.md",
+    "SA-3 Eagle.md",
+    "Battle of Cets.md",
+    "Aerospace Division.md",
+    "SA Fighter Class.md"
+  ]
+}

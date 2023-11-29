@@ -1,0 +1,1 @@
+SA fighter class craft stands for space and air fighter class. These craft run systems that allow them to switch between flying in and out of atmosphere in order to optimize their use case. They also carry weapons and are highly maneuverable in both air and space allowing for them to be incredibly useful crafts in military use.
