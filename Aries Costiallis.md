@@ -13,4 +13,4 @@ The [[SA-32 Condor]] was designed, planned, and largely built by Aries alone and
 
 # Working on 8th Gen Fighters
 
-He eventually ended up working closely with a highly ranked pilot in the guard, [[Aurora Astra]]. They would often discuss plane designs on breaks from the perspective of both an engineer and pilot. They worked closely to make 8th gen fighters as effective to construct and fly as possible.
+He eventually ended up working closely with a highly ranked pilot in the guard, [[Sofia Astra]]. They would often discuss plane designs on breaks from the perspective of both an engineer and pilot. They worked closely to make 8th gen fighters as effective to construct and fly as possible.
