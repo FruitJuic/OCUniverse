@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sofia Astra.md",
+                "file": "Aries Costiallis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sofia Astra"
+              "title": "Aries Costiallis"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sofia Astra.md",
+                "file": "Aries Costiallis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Sofia Astra"
+              "title": "Backlinks for Aries Costiallis"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sofia Astra.md",
+                "file": "Aries Costiallis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Sofia Astra"
+              "title": "Outgoing links from Aries Costiallis"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sofia Astra.md",
+                "file": "Aries Costiallis.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sofia Astra"
+              "title": "Outline of Aries Costiallis"
             }
           }
         ]
@@ -170,24 +170,24 @@
   },
   "active": "8bee7cdbdd9767ec",
   "lastOpenFiles": [
-    "Transport Class.md",
+    "Battle of Cets.md",
+    "Ground Division.md",
+    "Janitorial Division.md",
+    "SA-3 Eagle.md",
+    "Second Guard.md",
+    "K385.md",
+    "Sofia Astra.md",
+    "SA Fighter Class.md",
     "Siege of Gluk.md",
     "The Guard.md",
-    "Aurora Astra.md",
-    "Aries Costiallis.md",
     "SA-32 Condor.md",
-    "Sofia Astra.md",
-    "Janitorial Division.md",
+    "Aries Costiallis.md",
+    "Transport Class.md",
+    "Aurora Astra.md",
     "Aerospace Division.md",
     "AirForce Division.md",
-    "K385.md",
-    "SA-3 Eagle.md",
-    "Battle of Cets.md",
-    "Second Guard.md",
     "Engineering Division.md",
     "Naval Division.md",
-    "SA Fighter Class.md",
-    "Ground Division.md",
     "K835.md"
   ]
 }

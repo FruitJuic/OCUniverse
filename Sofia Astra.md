@@ -1,7 +1,7 @@
 
 # Early Career
 
-Aurora Morti Astra joined the [[Second Guard]] in the [[Janitorial Division]] at age 16 because she heard rumors of the development of new craft that would like to the creation of the [[Aerospace Division]]. She quickly rose through the ranks of the [[Janitorial Division]] and became quite fond of telling others to clean things rather than cleaning them herself. 
+Sofia Astra joined the [[Second Guard]] in the [[Janitorial Division]] at age 16 because she heard rumors of the development of new craft that would like to the creation of the [[Aerospace Division]]. She quickly rose through the ranks of the [[Janitorial Division]] and became quite fond of telling others to clean things rather than cleaning them herself. 
 
 When she was 18 the [[Aerospace Division]] entered service with the new [[SA-3 Eagle]] which was based off existing in atmosphere only fighters. She quickly made the move there and after a year of training was able to begin flying the [[SA-3 Eagle]] as a First Lieutenant. During her time as a First Lieutenant in the [[SA-3 Eagle]] she fought in 2 major battles. These were the [[Siege of Gluk]] and the [[Battle of Cets]].
 

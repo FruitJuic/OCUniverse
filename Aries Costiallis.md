@@ -1,7 +1,7 @@
 
 # Early Life
 
-Aries Costiallis was originally a local engineer and mechanic for his small town on [[K385]]. He fixed appliances, Helped with vehicles, and any other things that were brought to him. At the age of 16, he was told of a opportunity to join [[The Guard]], and seeing an chance to advance his skills and maybe meet some new people, He accepted, and was brought aboard the [[Engineering Division]]. 
+Aries Costiallis was originally a local engineer and mechanic for his small town on [[K385]]. He fixed appliances, helped with vehicles, and any other things that were brought to him. At the age of 16, he was told of a opportunity to join [[The Guard]], and seeing a chance to advance his skills and maybe meet some new people, he accepted, and was brought aboard the [[Engineering Division]]. 
 
 # Joining of [[The Guard]]
 
